@@ -4,7 +4,7 @@
 
 ### My Creative Works  
 
-[Project 1 Title](/sample_page)
+[Double exposure effect](/sample_page)
 <img src="images/tennessee baseball mix.jpg?raw=true"/>
 
 ---
