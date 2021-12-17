@@ -17,7 +17,7 @@
 
 ---
 [earth](http://example.com/)
-<img src="images/EARTH.2.jpg?raw=true"/>
+<img src="images/EARTH.2.png?raw=true"/>
 
 ---
 [retro look](http://example.com/)
