@@ -9,7 +9,7 @@
 
 ---
 [ripped effect](/pdf/sample_presentation.pdf)
-<img src="lil uzi ripped.2.jpg?raw=true"/>
+<img src="images/lil uzi ripped.2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
