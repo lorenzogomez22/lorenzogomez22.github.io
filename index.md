@@ -12,11 +12,17 @@
 <img src="images/lil uzi ripped.2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[galaxy cat](http://example.com/)
+<img src="images/galaxycat.jpg?raw=true"/>
 
 ---
+[earth](http://example.com/)
+<img src="images/EARTH.2.jpg?raw=true"/>
 
+---
+[retro look](http://example.com/)
+<img src="images/retro.jpg?raw=true"/>
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
